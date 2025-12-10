@@ -1,8 +1,8 @@
 #do object ki memory location compare karne ke liye identity operator ka use karte hai 
 """
-
-is-True
-is not -True
+do type ke operator hote hai 
+is-True(jab dono object ki same memory location ho)
+is not -True(jab dono object ki same memory location nhi ho)
 
 """
 a=[1,2,3]
