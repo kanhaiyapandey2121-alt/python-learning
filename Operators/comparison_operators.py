@@ -1,0 +1,12 @@
+x=10
+y=5
+
+print(x==y)
+print(x!=y)
+print(x>y)
+print(x<y)
+print(x>=y)
+print(x<=y)
+
+
+#iske output mai hame boolean expression(logical expression) milta hai jaise ki true /false 
